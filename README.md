@@ -20,7 +20,7 @@
 ## Preview
 
 <div align="center">
-  <img src="screenshot/first.jpeg" width="800">
-  <img src="screenshot/second.jpeg" width="800">
-  <img src="screenshot/third.jpeg" width="800">
+  <img src="../screenshots/first.jpeg" width="800">
+  <img src="../screenshots/second.jpeg" width="800">
+  <img src="../screenshots/third.jpeg" width="800">
 </div>
