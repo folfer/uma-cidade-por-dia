@@ -21,6 +21,6 @@
 
 <div align="center">
   <img src="https://github.com/folfer/uma-cidade-por-dia/blob/main/screenshots/first.jpeg" width="800">
-  <img src="../screenshots/second.jpeg" width="800">
-  <img src="../screenshots/third.jpeg" width="800">
+  <img src="https://github.com/folfer/uma-cidade-por-dia/blob/main/screenshots/second.jpeg" width="800">
+  <img src="https://github.com/folfer/uma-cidade-por-dia/blob/main/screenshots/third.jpeg" width="800">
 </div>
